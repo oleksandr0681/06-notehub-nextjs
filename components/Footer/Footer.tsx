@@ -9,7 +9,7 @@ export default function Footer() {
           <p>Developer: Oleksandr Verba</p>
           <p>
             Contact us:
-            <a href="<mailto:verba-tim@outlook.com>">verba-tim@outlook.com</a>
+            <a href="mailto:verba-tim@outlook.com">verba-tim@outlook.com</a>
           </p>
         </div>
       </div>
